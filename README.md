@@ -1,4 +1,4 @@
-# DiscordCodeImage
+# Discord Code Image
 Turns code into images so its easier to debug.
 
 To use this bot first start the python file then use this command to get code images.
